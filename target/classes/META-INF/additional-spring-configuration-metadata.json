@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "hibernate.dialect.storage_engine",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate.dialect.storage_engine'"
+  },
+  {
+    "name": "sspring.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'sspring.datasource.driver-class-name'"
+  },
+  {
+    "name": "createDatabaseIfNotExist",
+    "type": "java.lang.String",
+    "description": "A description for 'createDatabaseIfNotExist'"
+  }
+]}
